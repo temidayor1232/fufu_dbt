@@ -1,0 +1,32 @@
+version: 2
+
+sources:
+  - name: raw_data
+    tables:
+      - name: customers
+        freshness:
+          loaded_at_field: updated_at
+          warn_after: {hours: 12}
+          error_after: {hours: 24}
+
+      - name: branches
+        freshness:
+          loaded_at_field: updated_at
+          warn_after: {hours: 12}
+          error_after: {hours: 24}
+
+      - name: menu_items
+        freshness:
+          loaded_at_field: updated_at
+          warn_after: {hours: 12}
+          error_after: {hours: 24}
+        
+      - name: transactions
+        freshness:
+          loaded_at_field: updated_at
+          warn_after: {hours: 12}
+          error_after: {hours: 24}
+
+
+
+

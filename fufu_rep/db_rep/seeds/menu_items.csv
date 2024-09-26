@@ -1,0 +1,51 @@
+item_id,name,price,item_category,food_description
+c40c1368-c6c0-4bd5-9d80-5d553657a55b,Chow Mein,46.75,Side,Served with love
+f8492d24-60d2-40d7-9537-9aad524bc8f5,Pizza,98.28,Side,Richly seasoned
+7623b29c-fe83-427b-89d0-e04ffbb7d545,Ramen,10.13,Side,Served with love
+acc00698-ad5a-461d-8b43-930e01842c6d,Pho,46.47,Main,A burst of exotic flavors
+1f334f6f-885e-4abe-9fc6-85705053e5a9,Baguette,72.69,Main,Served with love
+f682d2e5-421f-49e0-a802-812a2d18df13,Biryani,39.91,Main,Richly seasoned
+7b8e5d03-b98a-4e39-8a2b-662f07381569,Sushi,18.36,Starter,A savory international delight
+ce8b6c17-5a29-4301-a93e-4361fa6d38ff,Biryani,74.16,Side,A burst of exotic flavors
+c5a8d464-004c-49a2-a069-db60b298b414,Ramen,32.59,Drink,A savory international delight
+6466b86a-a33c-4cb1-92c8-df8dd79399bc,Shawarma,61.82,Starter,A burst of exotic flavors
+709781fa-c90a-454f-a704-eacbfeea3e30,Sushi,13.38,Drink,A savory international delight
+2152fe34-89cd-4ebb-a7ec-6b9e3dc5de83,Sushi,50.89,Starter,A burst of exotic flavors
+f1f09f55-b757-4c4f-b1ac-43a2897d5a05,Doner Kebab,94.1,Starter,Made with fresh ingredients
+d2d509e2-d839-44d8-a2f5-f7cc2e5e9f10,Crepe,32.24,Starter,Made with fresh ingredients
+bf1d3d3c-dea6-4be2-8152-229a1a87ab21,Croissant,50.7,Dessert,Traditional recipe with a modern twist
+ae401104-663a-46fa-81ab-3d1177ff984c,Gelato,12.38,Main,Served with love
+9ab65252-0af2-44f8-ad00-6b10b3e815ae,Baguette,5.6,Dessert,A savory international delight
+6d64a326-0296-4330-94f6-23c340e64f5d,Pasta,32.51,Main,Served with love
+4e2a51a5-9bf2-4436-a9db-2f1201af53ae,Shawarma,73.29,Main,A savory international delight
+56531ecc-7447-4477-bfa2-d8e3397ca11a,Sushi,64.4,Drink,Perfect for sharing
+75c541aa-82bd-49a7-ae04-a7c6d0cbf6f9,Tacos,20.83,Main,Served with love
+5c4909e2-c6ff-40a4-a440-5dbbfb15b6a7,Paella,13.8,Drink,A burst of exotic flavors
+244a62ba-8c16-47a5-afa8-549af7defa1e,Pizza,53.63,Dessert,Authentic and flavorful
+ffaa4203-d1e8-4a34-adbe-ccf062eba40e,Moussaka,29.13,Main,Made with fresh ingredients
+4b447392-9fe9-4caf-83f9-263b7c7c1f5c,Pho,22.59,Dessert,Authentic and flavorful
+3955915f-929a-49c8-a03d-6e03522e6d60,Biryani,64.05,Side,A burst of exotic flavors
+79019c15-bc20-4552-a1ae-1fe80cb5696e,Ramen,91.8,Main,Made with fresh ingredients
+18007e1c-991b-4f75-9dea-c0e9cf7b162a,Shawarma,22.93,Drink,Richly seasoned
+5160ec2a-62fc-43a8-ade5-b3aab2778dc7,Curry,42.72,Drink,Richly seasoned
+1cb50628-f291-4218-8a9a-1c5f83ae4197,Falafel,38.87,Main,A savory international delight
+cece4814-d6a2-4949-b103-b3bd4ca914ce,Shawarma,9.83,Starter,Perfect for sharing
+9de1fe3b-86b9-487a-87a9-f8d0f5ec05d8,Pizza,12.39,Starter,A savory international delight
+4040228e-b031-4980-b0b2-323c5b13de36,Falafel,14.7,Drink,Traditional recipe with a modern twist
+8a7b4c5b-90ce-42d4-a413-eb485554bc18,Gelato,61.87,Main,A burst of exotic flavors
+a2c72131-470a-41b1-8dab-4edfeb9b34c4,Croissant,21.37,Main,Richly seasoned
+38a15803-a809-4cd5-a995-1966da60ea93,Curry,95.21,Starter,Richly seasoned
+81f4a11b-6bf1-4a6f-b211-d8f6c6e36a6e,Chow Mein,72.33,Main,A savory international delight
+77330bbf-c67f-4ef9-afd9-0d85e499bf90,Gelato,71.32,Starter,A savory international delight
+40b59502-93d3-4f9b-a34f-1323d77be3eb,Crepe,53.47,Drink,A burst of exotic flavors
+813c5750-716d-4e66-9928-4772a18fe22a,Crepe,98.3,Drink,Traditional recipe with a modern twist
+34d6bbda-12d3-434f-94ee-c123e0ea12f4,Doner Kebab,79.91,Main,A burst of exotic flavors
+67052d4b-0e36-46fc-88b2-1b6f91725cfa,Tacos,17.83,Dessert,Served with love
+b76c6ffd-9509-43a7-baaa-b42cd4f91cb8,Gelato,93.46,Drink,Perfect for sharing
+f5c99b4e-cc3e-4d76-a0dd-b260b698fea8,Pizza,22.65,Starter,A savory international delight
+22fe68a0-e4c1-47ba-9950-22e67f5dd885,Paella,42.98,Main,Authentic and flavorful
+8019ae12-3ec4-4cdd-959b-6ae68dc84215,Gelato,41.7,Starter,A burst of exotic flavors
+248e62b1-0025-478b-8e56-ffbb9bfc0d7c,Pizza,56.41,Drink,Served with love
+287a922c-3b2a-474a-b021-3c930d298393,Ramen,42.12,Drink,Richly seasoned
+c30e5f91-9301-4612-9a33-5808b4968b7c,Sushi,80.75,Main,Served with love
+e5d61aa0-6c65-4cef-8fa8-4c322f640997,Pho,12.04,Dessert,Traditional recipe with a modern twist

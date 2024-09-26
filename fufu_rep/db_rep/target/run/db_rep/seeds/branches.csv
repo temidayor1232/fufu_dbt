@@ -1,0 +1,14 @@
+
+    
+    
+    
+    create table RAW.STRIPE.branches (branch_id text,branch_name text,branch_location text,city text,region text)
+  ;
+    -- dbt seed --
+    
+            insert into RAW.STRIPE.branches (branch_id, branch_name, branch_location, city, region) values
+            (%s,%s,%s,%s,%s),(%s,%s,%s,%s,%s),(%s,%s,%s,%s,%s),(%s,%s,%s,%s,%s),(%s,%s,%s,%s,%s),(%s,%s,%s,%s,%s),(%s,%s,%s,%s,%s),(%s,%s,%s,%s,%s),(%s,%s,%s,%s,%s),(%s,%s,%s,%s,%s)
+        
+
+;
+  
